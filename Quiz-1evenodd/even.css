@@ -1,0 +1,49 @@
+
+
+.part1{
+    display: flex;
+   }
+
+       
+    .part2{
+        display: flex;
+        margin-left: 15%;
+       
+        } 
+
+        #whole{
+   
+font-family: 'PT Sans Narrow', sans-serif;
+
+        }
+        
+        .pic{
+            margin-left: 10%;
+        }
+        .paragraph{
+          font-size: larger;
+          
+
+        }
+
+        .button{
+            font-size: 20px;
+            background-color: rgb(212, 99, 118);
+        }
+
+
+
+        .paragraph2{
+            margin-left: 15%;
+        }
+
+        .solid{
+            margin-right: 15%;
+            margin-top: 5%;
+        }
+        
+  
+      
+          
+
+        

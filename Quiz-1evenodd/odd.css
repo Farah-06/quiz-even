@@ -1,0 +1,56 @@
+.boxes{
+    display: flex;
+    margin-left: 150px;
+}
+#whole{
+    margin-left: ;
+}
+
+.box1{
+    background-color: white;
+    margin: 10px;
+    height: 200px;
+    width: 300px;
+}
+
+.box2{
+    background-color: white;
+    margin: 10px;
+    height: 200px;
+    width: 300px;
+    
+}
+
+.box3{
+    background-color: white;
+    margin: 10px;
+    height: 200px;
+    width: 300px;
+}
+
+.box4{
+    background-color: white;
+    margin: 10px;
+    height: 200px;
+    width: 300px;
+}
+
+.box1 img{ width: 65%;
+           height: 40%
+           margin-right;: 100%
+         }
+
+.box2 img{ width: 65%;
+           height: 40%
+           margin-right;: 100%
+                 }
+
+.box3 img{ width: 65%;
+    height: 40%
+    margin-right;: 100%
+                         }
+
+.box4 img{ width: 65%;
+    height: 40%
+    margin-right;: 100%
+                }
